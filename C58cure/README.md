@@ -1,4 +1,4 @@
-Genome annotations for C58cure
+# Genome annotations for C58cure
 
 ![C58cure genome Circos](./C58cure-v1.circos.png)
 

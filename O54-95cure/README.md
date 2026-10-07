@@ -1,4 +1,4 @@
-Genome annotations for O54-95cure
+# Genome annotations for O54-95cure
 
 ![O54-95cure genome Circos](./O54-95cure-v1.circos.png)
 

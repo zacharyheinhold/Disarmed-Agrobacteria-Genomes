@@ -1,4 +1,4 @@
-Genome annotations for RO-2-2-DE
+# Genome annotations for RO-2-2-DE
 
 ![RO-2-2-DE pTi RRS sites](./RO-2-2-DE-v1_pTi_final_RRS-sites.circos.png)
 

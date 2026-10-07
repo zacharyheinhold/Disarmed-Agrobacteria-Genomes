@@ -1,4 +1,4 @@
-Genome annotations for T60-94-DE
+# Genome annotations for T60-94-DE
 
 ![T60-94-DE pTi RRS sites](./T60-94-DE-v1_pTi_final_RRS-sites.circos.png)
 
